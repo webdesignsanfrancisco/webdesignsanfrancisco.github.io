@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    {% if page.noindex %}<meta NAME="ROBOTS" CONTENT="NOINDEX,FOLLOW"/>{% endif %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+
+    <header>
+    <nav>
+      <span class="logo">{{ site.title }}</span>
+      <ul>
+        <a href="/">
+        <li>Home</li>
+        </a>
+        <a href="/">
+          <li>About</li>
+        </a>
+        <a href="/service">
+          <li>Service</li>
+        </a>
+      </ul>
+    </nav>
+
+  </header>
+
+<section id="home">
+
+
+    <main>
+      {{ content}}
+    </main>
+    <aside>
+      {% include sidebar.html %}
+    </aside>
+
+  </section>
+
+  {% include footer.html %}
+
+
+  </body>
+</html>
