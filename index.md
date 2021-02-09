@@ -24,7 +24,7 @@ my current project.
 
 ## Let's chat!
 
-<form action="https://formspree.io/f/mwkwzjkp" method="POST">
+<form action="https://formspree.io/f/xbjpbejg" method="POST">
 
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
