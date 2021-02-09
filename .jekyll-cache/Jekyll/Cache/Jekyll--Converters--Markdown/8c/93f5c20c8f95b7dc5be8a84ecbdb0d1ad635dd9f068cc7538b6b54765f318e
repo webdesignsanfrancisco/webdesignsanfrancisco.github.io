@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <meta name="google-site-verification" content="m69v3AGo34MjAVFAS-gUf2jykbqqaH0cjmINCnm-ivc" />
-    
-    <title>Freelance Web Designer San Francisco - Freelance Web Designer San Francisco</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-
-    <header>
-    <nav>
-      <span class="logo">Freelance Web Designer San Francisco</span>
-      <ul>
-        <a href="/">
-        <li>Home</li>
-        </a>
-        <a href="/">
-          <li>About</li>
-        </a>
-        <a href="/service">
-          <li>Service</li>
-        </a>
-      </ul>
-    </nav>
-
-  </header>
-
-<section id="home">
-
-
-    <main>
-      <p><img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco" /></p>
+I"\<p><img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco" /></p>
 
 <p>Hey There! My name is Asa and I am a Freelance Web Designer from San Francisco.</p>
 
@@ -53,10 +19,7 @@ my current project.</p>
   <li>Search Enging Optimization</li>
 </ul>
 
-<h2 id="lets-chat">Let’s chat!</h2>
-
-<form action="https://formspree.io/f/mwkwzjkp" method="POST">
-
+<form action="/action_page.php">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name.." />
 
@@ -68,33 +31,4 @@ my current project.</p>
 
     <input type="submit" value="Submit" />
   </form>
-
-    </main>
-    <aside>
-      <h2>Freelance Web Designer San Francisco</h2>
-
-<p>
-    Hey There! My name is Asa. I am a freelance web designer from the San Francisco Bay area. I work with Start-Ups, Freelancers, Developers and Designers. All around San Fracisco.
-</p>
-
-
-    </aside>
-
-  </section>
-
-  <footer>
-
-    <ul>
-      <a href="/about">
-      <li>About</li>
-      </a>
-      <a href="/privacy">
-        <li>Privacy Policy San Francisco</li>
-      </a>
-    </ul>
-
-  </footer>
-
-
-  </body>
-</html>
+:ET
