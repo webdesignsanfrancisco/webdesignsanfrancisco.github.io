@@ -41,6 +41,7 @@ nav ul {
   margin-top: 12px;
 }
 
+aside,
 nav,
 main {
   width: 1100px;
@@ -81,8 +82,18 @@ h1, h2, h3 {
 p {
   color: #243B53;
   line-height: 24px;
+  margin: 1rem 0;
 }
 
+footer {
+  margin: 0 auto;
+  background-color: #f3f4f6;
+  padding: 16px 0;
+}
+
+footer ul { 
+  max-width: 90%;
+}
 
 @media only screen and (min-width: 850px) {    
 
@@ -93,6 +104,7 @@ p {
 
   nav ul { 
     max-width: 50%;
+    width: 200px;
   }
 
 #home {
@@ -103,10 +115,18 @@ p {
   grid-gap: 48px;
 }
 
-footer {
-    width: 650px;
-    max-width: 90%;
-    margin: 0 auto;
+
+
+footer ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 500px;
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 }
