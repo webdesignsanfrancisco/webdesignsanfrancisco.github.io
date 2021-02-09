@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blank
 title: Web Development
 permalink: /service/development
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blank
 title: WordPress
 permalink: /service/wordpress
 ---
