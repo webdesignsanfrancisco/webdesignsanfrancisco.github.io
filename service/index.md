@@ -1,6 +1,6 @@
 ---
-layout: default
-title: My Service
+layout: blank
+title: My Services
 permalink: /service/
 ---
 

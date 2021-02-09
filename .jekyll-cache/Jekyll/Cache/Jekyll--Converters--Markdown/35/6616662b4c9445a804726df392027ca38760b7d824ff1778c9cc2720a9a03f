@@ -1,4 +1,4 @@
-I"�<p><img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco" /></p>
+I"<h2 id="hi-im-asa">Hi, I’m Asa!</h2>
 
 <p>Hey There! My name is Asa and I am a Freelance Web Designer from San Francisco.</p>
 
@@ -9,29 +9,19 @@
 <p>I build this page to give you all the information about my web design related services and
 my current project.</p>
 
+<p><img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco" /></p>
+
 <h2 id="service-examples">Service Examples</h2>
 
 <ul>
-  <li>Creating user interface desgins</li>
-  <li>developing pages with HTML, CSS and JavaScript</li>
-  <li>JavaScript Developer</li>
-  <li>Building E-Commerce Shops</li>
-  <li>Search Enging Optimization</li>
+  <li>Creating user interface designs.</li>
+  <li>developing pages with HTML, CSS and JavaScript.</li>
+  <li>JavaScript Developer.</li>
+  <li>Building E-Commerce Shops.</li>
+  <li>Search Enging Optimization.</li>
 </ul>
 
 <h2 id="lets-chat">Let’s chat!</h2>
 
-<form action="https://formspree.io/f/xbjpbejg" method="POST">
-
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name.." />
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit" />
-  </form>
+<p>Simply send me an email to asaita900@gmail.com</p>
 :ET

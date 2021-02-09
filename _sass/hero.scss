@@ -1,0 +1,58 @@
+
+
+#hero {
+    height: 75vh;
+    background-image: linear-gradient(to right,#4098d737, #19548cc6), url('/background.jpg');
+    background-size: cover;
+    background-position: top;
+    position: relative;
+  }
+  
+  .text-box {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+
+  .heading_primary {
+    color: white;
+    text-transform: uppercase;
+    backface-visibility: hidden;
+    margin-bottom: 60px;
+    line-height: 32px;
+  }
+  
+  .heading_primary_main {
+    display: block;
+    animation-name: moveInLeft;
+    animation-duration: 2s;
+  } 
+  
+  .heading_primary_sub {
+    display: block;
+    font-size: 16px;
+    font-weight: 200;
+    letter-spacing: 17.4px;
+    animation: moveInRight 2s ease-in;
+  }
+
+
+
+  @media only screen and (min-width: 850px) {   
+
+    .heading_primary {
+        font-size: 72px;
+        line-height: 72px;
+    }
+
+
+    .heading_primary_sub {
+        font-size: 48px;
+        line-height: 48px;
+        margin-top: 16px;
+    }
+
+  }

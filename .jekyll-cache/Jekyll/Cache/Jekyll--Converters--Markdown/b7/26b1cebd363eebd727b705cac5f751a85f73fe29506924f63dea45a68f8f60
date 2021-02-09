@@ -1,6 +1,4 @@
-I"€<p><img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco" /></p>
-
-<p>Hey There! My name is Asa and I am a Freelance Web Designer from San Francisco.</p>
+I"Ö<p>Hey There! My name is Asa and I am a Freelance Web Designer from San Francisco.</p>
 
 <p>I am an experienced web designer from the San Francisco Bay area. I work with start-ups, freelancers, designers and app developers. Needless to say San Francisco is a melting pot with new ideas, new projects and apps that are being developed that will change our daily life.Thatâ€™s the reason I am so excited to design and develop websites for this kind of projects.</p>
 
@@ -9,28 +7,19 @@
 <p>I build this page to give you all the information about my web design related services and
 my current project.</p>
 
+<p><img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco" /></p>
+
 <h2 id="service-examples">Service Examples</h2>
 
 <ul>
-  <li>Creating user interface desgins</li>
+  <li>Creating user interface designs.</li>
   <li>developing pages with HTML, CSS and JavaScript</li>
   <li>JavaScript Developer</li>
   <li>Building E-Commerce Shops</li>
   <li>Search Enging Optimization</li>
 </ul>
 
-<h2 id="lets-chat">Lets chat!</h2>
+<h2 id="lets-chat">Letâ€™s chat!</h2>
 
-<form action="/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name.." />
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit" />
-  </form>
+<p>Simply send me an email to asaita900@gmail.com</p>
 :ET

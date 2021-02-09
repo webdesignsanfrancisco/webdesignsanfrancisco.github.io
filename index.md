@@ -3,7 +3,7 @@ layout: default
 title: Freelance Web Designer San Francisco
 ---
 
-<img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco">
+## Hi, I'm Asa!
 
 Hey There! My name is Asa and I am a Freelance Web Designer from San Francisco.
 
@@ -14,13 +14,15 @@ Located in the Upper Market area, I am able to work with my customers locally an
 I build this page to give you all the information about my web design related services and
 my current project.
 
+<img src="/san-francisco-web-designer.jpg" alt="freelance web designer san francisco">
+
 ## Service Examples
 
-* Creating user interface desgins
-* developing pages with HTML, CSS and JavaScript
-* JavaScript Developer
-* Building E-Commerce Shops
-* Search Enging Optimization
+* Creating user interface designs.
+* developing pages with HTML, CSS and JavaScript.
+* JavaScript Developer.
+* Building E-Commerce Shops.
+* Search Enging Optimization.
 
 ## Let's chat!
 
