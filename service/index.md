@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: My Services
+title: My Services for San Francisco
 permalink: /service/
 ---
 
