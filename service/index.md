@@ -4,6 +4,8 @@ title: My Services
 permalink: /service/
 ---
 
+Here you can check out my services. As a [Freelance Web Designer San Francisco](/) these are the services I offer:
+
 ## My Services for San Francisco
 
 
