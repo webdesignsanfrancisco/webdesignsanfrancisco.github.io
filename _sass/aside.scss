@@ -1,0 +1,35 @@
+aside {
+    border-top: 1px solid #e9f1f7;
+    padding-top: 48px;
+}
+
+aside ul {
+    list-style: circle;
+    padding-left: 16px;
+}
+
+aside .btn {
+    margin-top: 24px;
+    display: inline-block;
+}
+
+@media only screen and (min-width: 850px) {  
+
+
+    aside { 
+        border-top: none;
+        border-left: 1px solid #e9f1f7;
+        padding-top: 0;
+        padding-left: 48px;
+        max-width: 90%;
+    }
+
+    aside p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    
+
+
+}
