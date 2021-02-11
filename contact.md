@@ -6,7 +6,7 @@ permalink: contact
 
 ## Let's work together!
 
-Let me know your ideas and thoughts!
+Let me know your ideas and thoughts! Don't forget to leave your e-mail so I can answer your questions ASAP.
 
 
 <form action="https://formspree.io/f/xgepqgne" method="POST">
