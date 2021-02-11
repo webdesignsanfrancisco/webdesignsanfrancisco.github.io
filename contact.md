@@ -10,7 +10,11 @@ Let me know your ideas and thoughts!
 
 
 <form action="https://formspree.io/f/xgepqgne" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+  <label>Name:</label>
+  <input type="name" name="name" required>
+  <label>Email:</label>
+  <input type="email" name="_replyto" required>
+  <label>Message:</label>
+  <input type="textarea" name="name" required>
+  <button class="submit--button" type="submit" value="Send">Send</button>
 </form>
