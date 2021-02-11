@@ -1,13 +1,13 @@
 ---
 layout: blank
 title: Copywriting
-description: Copy 
+description: Search engines evaluate websites based on many different ranking factors. In the past, especially inbound backlinks were very present. 
 permalink: /service/copywriting
 ---
 
 ## Copywriting
 
-Search engines evaluate websites based on many different ranking factors. In the past, especially inbound backlinks were very present. The targeted links were originally a very costly measure to quickly improve the rankings of your own website. Today, however, this is no longer the case, as backlink building has not only become very dangerous, but also very expensive.
+ The targeted links were originally a very costly measure to quickly improve the rankings of your own website. Today, however, this is no longer the case, as backlink building has not only become very dangerous, but also very expensive.
 
 And this is where copywriting comes into play. Because besides external links, the content of a website is also a very strong ranking factor and a cheaper alternative compared to link building. Not only is copywriting an attractive measure in terms of price, but there are also numerous other advantages.
 
