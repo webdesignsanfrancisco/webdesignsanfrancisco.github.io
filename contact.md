@@ -9,7 +9,7 @@ permalink: contact
 Let me know your ideas and thoughts!
 
 
-<form action="https://formspree.io/f/xzbkwnal" method="POST">
+<form action="https://formspree.io/f/xgepqgne" method="POST">
   <input type="text" name="name">
   <input type="email" name="_replyto">
   <input type="submit" value="Send">
