@@ -23,6 +23,12 @@ strong { color: #FF4949; }
 
 @font-face { font-family: 'French Fries'; src: url("/assets/fonts/FrenchFries-Regular.woff") format("woff2"), url("/assets/fonts/FrenchFries-Regular.woff") format("woff"); font-weight: normal; font-style: normal; font-display: swap; }
 
+@font-face { font-family: 'Jost'; src: url("/assets/fonts/Jost-Regular.woff2") format("woff2"), url("/assets/fonts/Jost-Regular.woff") format("woff"); font-weight: normal; font-style: normal; font-display: swap; }
+
+@font-face { font-family: 'Jost'; src: url("/assets/fonts/Jost-SemiBold.woff2") format("woff2"), url("/assets/fonts/Jost-SemiBold.woff") format("woff"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: 'Jost'; src: url("/assets/fonts/Jost-Italic.woff2") format("woff2"), url("/assets/fonts/Jost-Italic.woff") format("woff"); font-weight: normal; font-style: italic; font-display: swap; }
+
 /** header **/
 header { text-align: center; max-width: 90%; margin: 0 auto; }
 
