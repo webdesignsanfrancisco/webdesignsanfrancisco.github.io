@@ -1,0 +1,30 @@
+footer {
+    background-color: #FEF7F2;
+    padding: 8px 0;
+    color: #B49782;
+    position: relative;
+    margin-top: 128px;
+ }
+
+ footer ul  {
+    text-align: center;
+}
+
+ footer ul li {
+     display: inline-block;
+     margin: 12px;
+ }
+
+ footer:before {
+    content:"";
+    position:absolute;
+    top:-60px;
+    height:60px;
+    left:0;
+    right:0;
+    background:linear-gradient(to bottom right, transparent 49%, #FEF7F2 50%);
+   }
+
+.footer--text {
+    text-align: center;
+}

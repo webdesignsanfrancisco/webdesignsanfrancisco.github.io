@@ -110,14 +110,6 @@ main { position: relative; }
 
 @media only screen and (min-width: 850px) { #left__image h2 { padding-top: 0px; } #left__image { width: 1100px; display: grid; grid-template-columns: 1fr 1fr; margin: 64px auto; grid-gap: 24px; } .shape__orange { left: 100px; } #left__image h2 { font-size: 48px; line-height: 56px; font-weight: 800; } #left__image p { color: #788C9B; width: 550px; max-width: 90%; } }
 
-footer { background-color: #FEF7F2; padding: 8px 0; color: #B49782; position: relative; }
-
-footer ul { text-align: center; }
-
-footer ul li { display: inline-block; margin: 12px; }
-
-footer:before { content: ""; position: absolute; top: -60px; height: 60px; left: 0; right: 0; background: linear-gradient(to bottom right, transparent 49%, #FEF7F2 50%); }
-
 aside { border-top: 1px solid #e9f1f7; padding-top: 48px; position: relative; }
 
 aside ul { list-style: circle; padding-left: 16px; }
@@ -138,5 +130,15 @@ input[type=textarea], input[type=name], input[type=email] { width: 100%; /* Full
 input[type=textarea] { padding-bottom: 128px; }
 
 .submit--button { text-transform: uppercase; text-decoration: none; padding: 15px 40px; display: inline-block; border-radius: 10px; transition: all .2s; position: relative; border: none; margin-bottom: 12px; font-weight: 600; color: #102A43; }
+
+footer { background-color: #FEF7F2; padding: 8px 0; color: #B49782; position: relative; margin-top: 128px; }
+
+footer ul { text-align: center; }
+
+footer ul li { display: inline-block; margin: 12px; }
+
+footer:before { content: ""; position: absolute; top: -60px; height: 60px; left: 0; right: 0; background: linear-gradient(to bottom right, transparent 49%, #FEF7F2 50%); }
+
+.footer--text { text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
