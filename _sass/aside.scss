@@ -1,6 +1,7 @@
 aside {
     border-top: 1px solid #e9f1f7;
     padding-top: 48px;
+    position: relative;
 }
 
 aside ul {
@@ -13,6 +14,16 @@ aside .btn {
     display: inline-block;
 }
 
+
+#aside_path {
+    position: absolute;
+    width: 210px;
+    z-index: -1;
+    top: -220px;
+}
+
+
+
 @media only screen and (min-width: 850px) {  
 
 
@@ -24,11 +35,12 @@ aside .btn {
         max-width: 90%;
     }
 
-    aside p {
-        font-size: 16px;
-        line-height: 26px;
+    #aside_path {
+        width: 260px;
+        top: -173px;
+        left: 200px;
     }
-
+    
     
 
 

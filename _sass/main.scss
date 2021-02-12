@@ -41,6 +41,8 @@ h3 {
 p {
     margin: 1.3rem 0;
     color: #102A43;
+    font-size: 20px;
+    line-height: 28px;
 }
 
 
@@ -63,11 +65,27 @@ strong {
 }
 
 
+
+.italic {
+    font-style: italic;
+    color: #788C9B;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+
+
+
 @media only screen and (min-width: 850px) {   
 
     p {
         font-size: 20px;
         line-height: 30px;
+    }
+
+    .italic {
+        font-size: 22px;
+        line-height: 31px;
     }
 
  
@@ -144,11 +162,10 @@ header h1 {
 }
 
 
-
 header p {
     color: #788C9B;
-    font-size: 18px;
-    
+    animation: moveInBottom 1s ease-in-out;
+    display: inline-block;
 }
 
 
@@ -162,6 +179,7 @@ header p {
 
 .header__images {
     position: relative;
+    animation: moveInRight 1s ease-in-out;
 } 
 
 #header__images__bg__1 {
@@ -205,6 +223,11 @@ header h1 {
     line-height: 68px;
 }
 
+header p {
+    font-size: 22px;
+    line-height: 32px;
+}
+
 
 .header__content {
     text-align: left;
@@ -214,12 +237,22 @@ header h1 {
 
 .header__images {
     position: absolute;
-    right: 0;
+    right: -3rem;
     top: 3rem;
 }
 
-
+#arrow_svg {
+    width: 108px;
+    right: 130px;
+    transform: rotate(70deg);
+    top: 4rem;
+    opacity: .5;
+    z-index: -2;
 }
+}
+
+
+
 
 
 
@@ -249,8 +282,14 @@ header h1 {
     margin: 48px auto;
 }
 
+main {
+    position: relative;
+}
 
-
+#main_svg {
+    position: absolute;
+    z-index: -99;
+}
 
 
 
@@ -264,6 +303,14 @@ header h1 {
         grid-template-columns: 60% 40%;
         grid-gap: 64px;
         margin: 96px auto;
+    }
+
+    #main_svg {
+        position: absolute;
+        z-index: -99;
+        width: 100px;
+        top: 5rem;
+        left: 1rem;
     }
 
 
@@ -461,7 +508,7 @@ header h1 {
         display: grid;
         grid-template-columns: 1fr 1fr;
         margin: 64px auto;
-        grid-gap: 0px;
+        grid-gap: 24px;
     }
 
     .shape__orange { 
@@ -501,6 +548,7 @@ header h1 {
     background-color: #FEF7F2;
     padding: 8px 0;
     color: #B49782;
+    position: relative;
  }
 
  footer ul  {
@@ -511,3 +559,13 @@ header h1 {
      display: inline-block;
      margin: 12px;
  }
+
+ footer:before {
+    content:"";
+    position:absolute;
+    top:-60px;
+    height:60px;
+    left:0;
+    right:0;
+    background:linear-gradient(to bottom right, transparent 49%, #FEF7F2 50%);
+   }
