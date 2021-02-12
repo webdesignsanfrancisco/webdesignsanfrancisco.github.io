@@ -21,6 +21,8 @@ strong { color: #FF4949; }
 
 .italic { font-style: italic; color: #788C9B; font-size: 20px; line-height: 28px; }
 
+#website__2 { width: 230px; transform: rotate(353deg); position: absolute; left: -260px; top: 101px; z-index: -2; border-radius: 10px; }
+
 @media only screen and (min-width: 850px) { p { font-size: 20px; line-height: 30px; } .italic { font-size: 22px; line-height: 31px; } }
 
 @font-face { font-family: 'French Fries'; src: url("/assets/fonts/FrenchFries-Regular.woff") format("woff2"), url("/assets/fonts/FrenchFries-Regular.woff") format("woff"); font-weight: normal; font-style: normal; font-display: swap; }
