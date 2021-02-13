@@ -1,11 +1,11 @@
 ---
 layout: blank
-title: SEO Freelancer
+title: SEO Freelancer 
 permalink: /service/seo
 ---
 
 ## What is an SEO audit?
-Get to know the benefits of audit and the effect of this service
+Get to know the benefits of an SEO audit and the effect of this service. As an SEO freelancer for San Francisco I offer a variety of services.
 
 SEO audit is an analysis of a website in terms of relevant factors that influence visibility of the website and its position in search engines.
 

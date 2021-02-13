@@ -1,7 +1,7 @@
 ---
 layout: blank
 title: Copywriting
-description: Search engines evaluate websites based on many different ranking factors. In the past, especially inbound backlinks were very present. 
+intro: Search engines evaluate websites based on many different ranking factors. In the past, especially inbound backlinks were very present. 
 permalink: /service/copywriting
 ---
 

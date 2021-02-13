@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: My Services for San Francisco
+title: My Web Design Services
 permalink: /service/
 ---
 
