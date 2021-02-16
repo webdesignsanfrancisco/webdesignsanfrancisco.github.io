@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Graphic Design
+title: Graphic Design (UI Design)
 permalink: /service/graphic-design
 ---
 

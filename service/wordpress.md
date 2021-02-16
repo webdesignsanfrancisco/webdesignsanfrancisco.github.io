@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: WordPress
+title: WordPress Development
 permalink: /service/wordpress
 ---
 

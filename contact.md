@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Contact
+title: Contact Me
 permalink: contact
 ---
 

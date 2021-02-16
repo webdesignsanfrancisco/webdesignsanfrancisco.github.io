@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: E - Commerce
+title: E-Commerce (Online Shop)
 permalink: /service/e-commerce
 ---
 

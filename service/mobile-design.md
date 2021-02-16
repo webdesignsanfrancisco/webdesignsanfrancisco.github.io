@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Mobile Design
+title: Mobile Design (Your Mobile Website)
 intro: Well-made, clear, interesting for the recipient and providing the necessary information website is a business card of every company. Unfortunately, nowadays just having a website may not be enough to reach all potential customers. 
 permalink: /service/mobile-design
 ---
