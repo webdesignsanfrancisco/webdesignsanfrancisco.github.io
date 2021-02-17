@@ -1,36 +1,31 @@
----
-layout: default
-title: Freelance Web Designer San Francisco
-description: Welcome to Freelance Web Designer San Francisco. You're looking for a website with custom made & handcrafted design? I code and design every website from scratch. With free ...
----
+I"<h1 id="self-taught-web-designer--developer-from-san-francisco">Self-taught web designer &amp; developer from San Francisco.</h1>
 
+<p class="italic">My name is Asa and I'm an experienced web designer from the San Francisco Bay area. I work with start-ups, freelancers, designers and app developers. Needless to say San Francisco is a melting pot with new ideas, new projects and apps that are being developed that will change our daily life. </p>
+<p>That’s the reason I am so excited to design and develop websites for these kind of projects.</p>
 
-# Self-taught web designer & developer from San Francisco.
-
-<p class="italic">My name is Asa and I'm an experienced web designer from the San Francisco Bay area. I work with start-ups, freelancers, designers and app developers. Needless to say San Francisco is a melting pot with new ideas, new projects and apps that are being developed that will change our daily life. </p>That’s the reason I am so excited to design and develop websites for these kind of projects.
-
-
-Located in the Upper Market area (near Burnett Ave), I am able to work with my customers locally and online. I meet my customers for a coffee at market street or I visit startups at any San Francisco area. Including Lake Street, Design District, Cole Calley or <a href="https://en.wikipedia.org/wiki/Bernal_Heights,_San_Francisco" target="_blank">Bernal Heights.</a>
+<p>Located in the Upper Market area (near Burnett Ave), I am able to work with my customers locally and online. I meet my customers for a coffee at market street or I visit startups at any San Francisco area. Including Lake Street, Design District, Cole Calley or <a href="https://en.wikipedia.org/wiki/Bernal_Heights,_San_Francisco" target="_blank">Bernal Heights.</a></p>
 
 <picture>
-    <source media="(min-width:950px)" srcset="/background.png">
-    <img src="/background.png" alt="san francisco background" style="width:auto;">
+    <source media="(min-width:950px)" srcset="/background_desktop.png" />
+    <img src="/background.png" alt="san francisco background" style="width:auto;" />
 </picture>
 
+<h2 id="front-end-development-including-javascript-gatsbyjs-and-jekyll">Front End Development including JavaScript, GatsbyJS and Jekyll.</h2>
 
-## Front End Development including JavaScript, GatsbyJS and Jekyll.
-      
-I code with JavaScript, I develop extrmely fast GatsbyJS pages and I love to creating simple pags with my favourite static site generator: Jekyll.
+<p>I code with JavaScript, I develop extrmely fast GatsbyJS pages and I love to creating simple pags with my favourite static site generator: Jekyll.</p>
 
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Icoon JavaScript</title><path d="M6 42V6H42V42H6Z" fill="#FFD600"></path><path d="M29.538 32.947C30.23 34.071 30.982 35.148 32.575 35.148C33.913 35.148 34.615 34.483 34.615 33.563C34.615 32.462 33.889 32.071 32.417 31.43L31.61 31.086C29.281 30.098 27.732 28.86 27.732 26.245C27.732 23.835 29.577 22.001 32.46 22.001C34.513 22.001 35.988 22.712 37.052 24.574L34.538 26.181C33.985 25.193 33.387 24.804 32.46 24.804C31.514 24.804 30.915 25.401 30.915 26.181C30.915 27.145 31.515 27.535 32.9 28.132L33.707 28.476C36.452 29.645 38 30.839 38 33.523C38 36.415 35.716 38 32.65 38C29.651 38 27.948 36.495 27 34.632L29.538 32.947ZM17.952 33.029C18.458 33.935 19.227 34.632 20.333 34.632C21.391 34.632 22 34.214 22 32.589V22H25.333V33.101C25.333 36.468 23.38 38 20.528 38C17.951 38 16.091 36.254 15.333 34.632L17.952 33.029Z" fill="#000001"></path></svg>
 
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Logo React</title><path d="M24 32.7643C12.6981 32.7643 3.84943 28.9094 3.84943 24.0032C3.84943 19.097 12.6981 15.2421 24 15.2421C35.3018 15.2421 44.1505 19.097 44.1505 24.0032C44.1505 28.9094 35.3018 32.7643 24 32.7643ZM24 16.9943C12.961 16.9943 5.60165 20.5863 5.60165 24.0032C5.60165 27.42 12.961 31.0121 24 31.0121C35.039 31.0121 42.3983 27.42 42.3983 24.0032C42.3983 20.5863 35.039 16.9943 24 16.9943Z" fill="#80DEEA"></path><path d="M16.2022 42.051C15.3261 42.051 14.6252 41.8758 13.9243 41.4377C9.63139 38.9846 10.7703 29.435 16.3774 19.6226C19.0058 15.0668 22.2474 11.2119 25.4014 8.75881C28.8182 6.13047 31.8846 5.34197 33.9873 6.56853C36.1776 7.79508 36.9661 10.8615 36.4404 15.1544C35.9147 19.1845 34.1625 23.9155 31.5342 28.4713C28.9058 33.0271 25.6642 36.882 22.5102 39.3351C20.2323 41.0873 18.0421 42.051 16.2022 42.051ZM31.797 7.70747C30.3952 7.70747 28.5554 8.49597 26.5403 10.073C23.5616 12.4385 20.4952 16.1181 17.9544 20.4987C12.4349 30.0483 11.9093 38.2837 14.8004 39.9484C16.2898 40.8245 18.7429 40.036 21.4589 37.9333C24.4377 35.5678 27.5041 31.8881 30.0448 27.5076C32.5855 23.127 34.2501 18.6589 34.7758 14.8916C35.2138 11.3871 34.6882 8.93403 33.1988 8.05792C32.7607 7.8827 32.3227 7.70747 31.797 7.70747Z" fill="#80DEEA"></path><path d="M31.8846 42.051C27.504 42.051 21.196 36.7067 16.465 28.3837C10.7703 18.5712 9.63136 9.02162 13.9243 6.56851C18.2173 4.1154 25.927 9.81012 31.6217 19.6226C34.2501 24.1783 36.0023 28.9093 36.528 32.9394C37.1412 37.2324 36.2651 40.2112 34.0749 41.5253C33.374 41.8758 32.6731 42.051 31.8846 42.051ZM14.8004 8.0579C11.9093 9.72251 12.4349 17.9579 17.9544 27.5076C23.4739 37.0572 30.3076 41.6129 33.1987 39.9483C34.6881 39.0722 35.2138 36.6191 34.7757 33.1147C34.2501 29.3474 32.5855 24.8792 30.0447 20.4987C24.5252 10.9491 17.6916 6.39329 14.8004 8.0579Z" fill="#80DEEA"></path><path d="M24 27.5076C25.9354 27.5076 27.5044 25.9386 27.5044 24.0032C27.5044 22.0677 25.9354 20.4987 24 20.4987C22.0645 20.4987 20.4955 22.0677 20.4955 24.0032C20.4955 25.9386 22.0645 27.5076 24 27.5076Z" fill="#80DEEA"></path></svg>
 
-## My Freelance Web Design Services
+<h2 id="my-freelance-web-design-services">My Freelance Web Design Services</h2>
 
-* Custom websites, handcrafted designs
-* JavaScript API's integration
-* Static Site Development (GatsbyJS, Jekyll)
-* Landing Page design and creating
-* Content Audit (SEO Audit)
-* MongoDP lookup using arrays
+<ul>
+  <li>Custom websites, handcrafted designs</li>
+  <li>JavaScript API’s integration</li>
+  <li>Static Site Development (GatsbyJS, Jekyll)</li>
+  <li>Landing Page design and creating</li>
+  <li>Content Audit (SEO Audit)</li>
+  <li>MongoDP lookup using arrays</li>
+</ul>
+:ET
