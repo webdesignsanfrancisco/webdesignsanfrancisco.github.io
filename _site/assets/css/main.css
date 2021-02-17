@@ -136,7 +136,7 @@ input[type=textarea] { padding-bottom: 128px; }
 
 .form-control { position: relative; margin: 32px 0; }
 
-.form-control input { background-color: transparent; border: 0; border-top: none; border-bottom: 1px solid grey; border-radius: none; display: block; width: 100%; font-size: 18px; color: #102A43; }
+.form-control input { background-color: transparent; border: 0; border-top: none; border-bottom: 1px solid grey; border-radius: 0; -webkit-appearance: none; display: block; width: 100%; font-size: 18px; color: #102A43; }
 
 .form-control input:focus, .form-control input:valid { outline: 0; border-bottom-color: lightblue; }
 
