@@ -12,7 +12,7 @@ input[type=email],
   }
 
   input[type=textarea] {
-      padding-bottom: 128px;
+    padding-bottom: 128px;
   }
   
 
@@ -25,6 +25,7 @@ input[type=email],
     transition: all .2s;
     position: relative;
     border: none;
+    border-radius: none;
     margin-bottom: 12px;
     font-weight: 600;
     color: #102A43;
@@ -39,6 +40,7 @@ input[type=email],
   .form-control input {
     background-color: transparent;
     border: 0;
+    border-top: none;
     border-bottom: 1px solid grey;
     display: block;
     width: 100%;
