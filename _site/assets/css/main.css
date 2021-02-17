@@ -132,7 +132,7 @@ input[type=textarea], input[type=name], input[type=email] { padding: 12px 0; /* 
 
 input[type=textarea] { padding-bottom: 128px; }
 
-.submit--button { text-transform: uppercase; text-decoration: none; padding: 15px 40px; display: inline-block; border-radius: 10px; transition: all .2s; position: relative; border: none; border-radius: none; margin-bottom: 12px; font-weight: 600; color: #102A43; }
+.submit--button { text-transform: uppercase; text-decoration: none; padding: 15px 40px; display: inline-block; border-radius: 10px; transition: all .2s; position: relative; border: none; border-radius: none; margin-bottom: 12px; font-weight: 600; color: #102A43; background-color: #eeefee; }
 
 .form-control { position: relative; margin: 32px 0; }
 
