@@ -11,12 +11,22 @@ Let me know your ideas and thoughts! Don't forget to leave your e-mail so I can 
 
 
 
-<form action="https://formspree.io/f/xgepqgne" method="POST">
-  <label>Name:</label>
-  <input type="name" name="name" required>
-  <label>Email:</label>
-  <input type="email" name="_replyto" required>
+<form action="https://formspree.io/f/xgepqgne" method="POST" autocomplete="off">
+
+  <div class="form-control">
+     <input type="name" required> 
+      <label>Name:</label>
+  </div>
+
+  <div class="form-control">
+    <input type="email" required>
+    <label>Email:</label>
+  </div>
+
+  <div class="form-control">
+  <input type="textarea" required>
   <label>Message:</label>
-  <input type="textarea" name="name" required>
+  </div>
+
   <button class="submit--button" type="submit" value="Send">Send</button>
 </form>

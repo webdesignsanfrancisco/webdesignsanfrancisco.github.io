@@ -128,12 +128,23 @@ nav ul li { display: inline-block; color: #8BA6B4; text-transform: uppercase; pa
 
 @media only screen and (min-width: 850px) { nav ul li { font-size: 18px; letter-spacing: 0.03rem; } nav ul { text-align: left; } nav ul li:first-child { padding-left: 0; } }
 
-/* Style inputs with type="text", select elements and textareas */
-input[type=textarea], input[type=name], input[type=email] { width: 100%; /* Full width */ padding: 12px; /* Some padding */ border: 1px solid #ccc; /* Gray border */ border-radius: 4px; /* Rounded borders */ margin-top: 6px; /* Add a top margin */ margin-bottom: 16px; /* Bottom margin */ resize: vertical; }
+input[type=textarea], input[type=name], input[type=email] { padding: 12px 0; /* Some padding */ resize: vertical; }
 
 input[type=textarea] { padding-bottom: 128px; }
 
 .submit--button { text-transform: uppercase; text-decoration: none; padding: 15px 40px; display: inline-block; border-radius: 10px; transition: all .2s; position: relative; border: none; margin-bottom: 12px; font-weight: 600; color: #102A43; }
+
+.form-control { position: relative; margin: 32px 0; }
+
+.form-control input { background-color: transparent; border: 0; border-bottom: 1px solid grey; display: block; width: 100%; font-size: 18px; color: #102A43; }
+
+.form-control input:focus, .form-control input:valid { outline: 0; border-bottom-color: lightblue; }
+
+.form-control label { position: absolute; top: 15px; left: 0; }
+
+.form-control label span { display: inline-block; font-size: 18px; min-width: 5px; transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55); }
+
+.form-control input:focus + label span, .form-control input:valid + label span { color: lightblue; transform: translateY(-30px); }
 
 footer { background-color: #FEF7F2; padding: 8px 0; color: #B49782; position: relative; margin-top: 128px; }
 
