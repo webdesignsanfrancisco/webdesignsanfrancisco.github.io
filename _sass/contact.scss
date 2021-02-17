@@ -25,7 +25,6 @@ input[type=email],
     transition: all .2s;
     position: relative;
     border: none;
-    border-radius: none;
     margin-bottom: 12px;
     font-weight: 600;
     color: #102A43;
@@ -43,6 +42,7 @@ input[type=email],
     border: 0;
     border-top: none;
     border-bottom: 1px solid grey;
+    border-radius: none;
     display: block;
     width: 100%;
     font-size: 18px;
