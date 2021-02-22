@@ -12,6 +12,7 @@ body {
     font-family: 'Jost';
     color: #616e7c;
     overflow-x: hidden;
+    border-top: 6px solid #fac601;
 }
 
 img {
@@ -36,7 +37,7 @@ h2 {
 
 h3 {
     font-size: 24px;
-    line-height: 30px;
+    line-height: 32px;
     color: #102A43
 }
 
@@ -102,6 +103,7 @@ strong {
         font-size: 22px;
         line-height: 32px;
     }
+
 
  
 
@@ -234,8 +236,8 @@ header {
 }    
 
 header h1 {
-    font-size: 60px;
-    line-height: 68px;
+    font-size: 72px;
+    line-height: 76px;
 }
 
 header p {
@@ -246,7 +248,7 @@ header p {
 
 .header__content {
     text-align: left;
-    width: 600px;
+    width: 700px;
     max-width: 90%;
 }
 

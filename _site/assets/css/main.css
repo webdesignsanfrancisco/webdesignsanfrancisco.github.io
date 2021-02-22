@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; box-sizing: border-box; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-body { font-family: 'Jost'; color: #616e7c; overflow-x: hidden; }
+body { font-family: 'Jost'; color: #616e7c; overflow-x: hidden; border-top: 6px solid #fac601; }
 
 img { max-width: 100%; }
 
@@ -9,7 +9,7 @@ h1 { font-size: 36px; line-height: 44px; color: #1F2933; }
 
 h2 { font-size: 30px; line-height: 38px; color: #1F2933; }
 
-h3 { font-size: 24px; line-height: 30px; color: #102A43; }
+h3 { font-size: 24px; line-height: 32px; color: #102A43; }
 
 p { margin: 1.3rem 0; color: #102A43; font-size: 20px; line-height: 28px; }
 
@@ -54,7 +54,7 @@ header p { color: #788C9B; animation: moveInBottom 1s ease-in-out; display: inli
 
 #arrow_svg { width: 70px; position: absolute; right: 65px; transform: rotate(39deg); }
 
-@media only screen and (min-width: 850px) { header { width: 1100px; max-width: 90%; margin: 24px auto; } header h1 { font-size: 60px; line-height: 68px; } header p { font-size: 22px; line-height: 32px; } .header__content { text-align: left; width: 600px; max-width: 90%; } .header__images { position: absolute; right: -3rem; top: 3rem; } #arrow_svg { width: 108px; right: 130px; transform: rotate(70deg); top: 4rem; opacity: .5; z-index: -2; } }
+@media only screen and (min-width: 850px) { header { width: 1100px; max-width: 90%; margin: 24px auto; } header h1 { font-size: 72px; line-height: 76px; } header p { font-size: 22px; line-height: 32px; } .header__content { text-align: left; width: 700px; max-width: 90%; } .header__images { position: absolute; right: -3rem; top: 3rem; } #arrow_svg { width: 108px; right: 130px; transform: rotate(70deg); top: 4rem; opacity: .5; z-index: -2; } }
 
 /** home **/
 #home { max-width: 90%; margin: 48px auto; }
@@ -146,26 +146,28 @@ input[type=textarea] { padding-bottom: 128px; }
 
 .form-control input:focus + label span, .form-control input:valid + label span { color: lightblue; transform: translateY(-30px); }
 
-footer { background-color: #FEF7F2; padding: 8px 0; color: #B49782; position: relative; margin-top: 128px; }
+footer { background-color: #FEF7F2; padding: 8px 0; color: #B49782; position: relative; border-top: 1px solid #f4e7db; padding-top: 16px; }
 
 footer ul { text-align: center; }
 
 footer ul li { display: inline-block; margin: 12px; }
 
-footer:before { content: ""; position: absolute; top: -60px; height: 60px; left: 0; right: 0; background: linear-gradient(to bottom right, transparent 49%, #FEF7F2 50%); border: none; }
-
 .footer--text { text-align: center; }
 
-#faq { max-width: 90%; margin: 0 auto; margin-top: 96px; text-align: center; }
+#faq { max-width: 100%; margin: 0 auto; margin-top: 96px; text-align: center; background-color: #fef7f2; padding: 92px 0; position: relative; }
 
-.question { border: 1px solid #e0e0e0; border-radius: 12px; padding: 4px 22px; margin-top: 16px; }
+#faq:before { content: ""; position: absolute; top: -60px; height: 60px; left: 0; right: 0; background: linear-gradient(to bottom right, transparent 49%, #FEF7F2 50%); border: none; }
 
-.question h3 { padding-top: 24px; }
+#faq span { font-size: 15px; font-weight: 700; font-style: normal; letter-spacing: 0.4px; text-decoration: none; text-transform: uppercase; color: #e8c29e; margin: 24px 0 0; display: block; }
+
+.question { border-radius: 12px; padding: 12px 36px; margin-top: 16px; background-color: white; box-shadow: 0px 70px 40px -50px rgba(0, 0, 0, 0.2), 0px 3px 20px rgba(0, 0, 0, 0.1); max-width: 90%; margin: 32px auto; }
+
+.question h3 { padding-top: 24px; border-bottom: 1px solid #788c9b33; padding-bottom: 12px; }
 
 .question p { color: #788C9B; margin-top: 12px; }
 
 .question__wrapper { text-align: left; }
 
-@media only screen and (min-width: 850px) { #faq h2 { text-align: center; font-size: 48px; line-height: 56px; font-weight: 800; } .question__wrapper { display: grid; grid-template-columns: 1fr 1fr; width: 1100px; max-width: 90%; margin: 0 auto; grid-gap: 48px; margin-top: 32px; } }
+@media only screen and (min-width: 850px) { #faq { margin-top: 192px; } #faq h2 { text-align: center; font-size: 60px; line-height: 72px; font-weight: 800; } .question__wrapper { display: grid; grid-template-columns: 1fr 1fr; width: 1100px; max-width: 90%; margin: 0 auto; grid-gap: 48px; margin-top: 32px; } .question { margin: none; max-width: none; margin-top: 16px; } }
 
 /*# sourceMappingURL=main.css.map */
