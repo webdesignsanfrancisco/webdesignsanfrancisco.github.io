@@ -1,9 +1,44 @@
+
+
+nav {
+    position: fixed;
+    background-color: transparent;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all .3s ease-in;
+    z-index: 99;
+    border-top: 6px solid #fac601;
+}
+
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all .3s ease-in;
+    width: 1100px;
+    margin: 0 auto;
+    max-width: 90%;
+}
+
+
+
 nav ul li {
     display: inline-block;
     color: #8BA6B4;
     text-transform: uppercase;
-    padding: 24px;
+    padding: 0 24px;
     font-size: 15px;
+}
+
+nav.active {
+    background-color: #fff;
+    box-shadow: 0px 70px 40px -50px rgba(0, 0, 0, 0.2), 0px 3px 20px rgba(0, 0, 0, 0.1);
+    padding: 16px 0;
+}
+
+nav.active li { 
+    color: #994122;
 }
 
 

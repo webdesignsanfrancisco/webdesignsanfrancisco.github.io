@@ -22,12 +22,17 @@
 }
 
 .btn-white {
-    background-color: #fac602;
-    color: #102A43;
     font-family: Jost;
-    letter-spacing: 0.03rem;
-    font-size: 15px;
-    font-weight: 500;
+    background-color: #FFD262;
+    border-bottom-color: #E4B34F;
+    border-top-color: #FFE8B2;
+    box-shadow: 1px 1px 0 0 #e4b34f, 1px -1px 0 0 #e4b34f, -1px 1px 0 0 #e4b34f, -1px -1px 0 0 #e4b34f;
+    color: #994122;
+    border-radius: 3px;
+    border-width: 1px 0 2px;
+    font-size: 14px;
+    padding: 0 20px;
+    font-family: Roboto;
 }
 
 .btn::after {
