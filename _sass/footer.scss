@@ -1,23 +1,60 @@
 footer {
-    background-color: #FEF7F2;
+    background-color: #fff;
     padding: 8px 0;
     color: #B49782;
     position: relative;
     border-top: 1px solid #f4e7db;
     padding-top: 16px;
+    margin: 0 auto;
+    font-family: Roboto;
  }
 
  footer ul  {
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
  footer ul li {
      display: inline-block;
-     margin: 12px;
+     margin: 0px;
+     font-size: 16px;
  }
+
+ footer h3 {
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #e8c29e;
+    margin: 24px 0 0;
+    display: block;
+    font-family: Roboto;
+ }
+
 
 
 
 .footer--text {
     text-align: center;
+}
+
+
+@media only screen and (min-width: 850px) {   
+
+    footer {
+        max-width: 1100px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    footer ul{
+        text-align: left;
+    }
+
+
 }

@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: SEO Freelancer  
+title: SEO Optimization Freelancer  
 permalink: /service/seo
 ---
 

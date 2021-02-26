@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Social Media Marketing
+title: Social Media Marketing (Marketing)
 permalink: /service/social-media
 intro: Social media in business allows you to spread your wings. Setting up a company website on social media is a necessity
 ---
